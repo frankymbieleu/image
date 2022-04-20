@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Wylov</title>
+        <item>
+            <title>Version 1.12.0</title>
+            <description>Upgrade</description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <enclosure
+                url="https://play.google.com/store/apps/details?id=com.yataxperts.wylov.client"
+                sparkle:os="android" sparkle:version="1.15.0" />
+        </item>
+    </channel>
+</rss>
